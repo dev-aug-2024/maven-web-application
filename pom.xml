@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Releases Nexus Repository</name>
-	      <url>http://172.31.39.94:9980/Niharika/repository/indianbank-releases/</url>
+	      <url>http://52.66.236.153:8081/Niharika/repository/indianbank-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://172.31.39.94:9980/Niharika/repository/indianbank-snapshot/</url>
+	      <url>http://52.66.236.153:8081/Niharika/repository/indianbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
